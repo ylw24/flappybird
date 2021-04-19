@@ -1,6 +1,6 @@
 # flappybird
 
-##packages:  
+## packages:  
 
 ### flappybird  
 Buttons.java  
