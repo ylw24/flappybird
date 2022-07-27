@@ -11,8 +11,7 @@ Note: hsa_ufa is a package that someone else has made
 
 
 ### Starting Menu and Setting
-<img width="372" alt="flappybird1" src="https://user-images.githubusercontent.com/61102300/181352250-d6693558-9b3b-491e-9973-ed6a8373a5e9.png">
-<img width="376" alt="flappybird3" src="https://user-images.githubusercontent.com/61102300/181347099-806ff4b1-295e-40b1-821b-c47d07f6369d.png">
+<img width="372" alt="flappybird1" src="https://user-images.githubusercontent.com/61102300/181352250-d6693558-9b3b-491e-9973-ed6a8373a5e9.png"> <img width="376" alt="flappybird3" src="https://user-images.githubusercontent.com/61102300/181347099-806ff4b1-295e-40b1-821b-c47d07f6369d.png">
 
 ### Single Player Mode
 <img width="376" alt="flappybird2" src="https://user-images.githubusercontent.com/61102300/181352252-f887b974-7742-4bfb-a0b1-cfd4f8b81c0b.png">
