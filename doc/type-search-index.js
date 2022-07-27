@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"flappybird","l":"Buttons"},{"p":"flappybird","l":"Main"},{"p":"flappybird","l":"Movements"},{"p":"flappybird","l":"Pipe"},{"p":"flappybird","l":"Player"},{"p":"flappybird","l":"Settings"},{"p":"flappybird","l":"SinglePlayer"},{"p":"flappybird","l":"TwoPlayer"}]
