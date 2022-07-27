@@ -1,12 +1,9 @@
-# flappybird
-
 A custom flappybird game with single and multiplayer modes. Keeps track of highscore. 
 In settings, one can delete the highscores, return to game menu, or exit the game. 
 Note: hsa_ufa is a package that someone else has made 
 
 
 
-## Random Screenshots: 
 
 
 
